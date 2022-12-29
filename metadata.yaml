@@ -7,6 +7,9 @@ contributor:
     birthdate: 1897
     gutenberg_agent_id: '55233'
     url: http://www.gutenberg.org/2009/agents/55233
+covers:
+- cover_type: archival
+  image_path: 69438-h/images/cover.jpg
 creator:
   author:
     agent_name: Gray, Arthur
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55199
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Gray_(Master_of_Jesus)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69438#Tedious-brief-tales-of-Granta-and-Gramarye
 gutenberg_issued: '2022-11-28'
 identifiers:
   gutenberg: '69438'
